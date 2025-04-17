@@ -1,3 +1,3 @@
 # TO - DO APP
 
-Minimalistic cersioj of To-Do App
+Minimalistic version of To-Do App
